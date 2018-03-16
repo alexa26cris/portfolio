@@ -28,7 +28,7 @@ h2 {
 }
 
 .main-header #logo {
-    width: 40%;
+    width: 100%;
     margin: 10px 0;
     display: flex;
     transition: width 2s;
@@ -67,8 +67,8 @@ h2 {
 }
 
 /*Content block */
-#content img#cover-pic {
-    width: 100%;
+#content #delta-pic {
+    width: 80%;
 
     border-radius: 5px;
     margin-top: 10px;
@@ -138,7 +138,7 @@ footer p {
     .main-header #logo {
         margin: auto;
         display: block;
-        width: 65%;
+        width: 70%;
         padding-bottom: 5px;
         display: inline-flex;
         transition: width 2s;
@@ -183,7 +183,7 @@ footer p {
         height: auto;
         display: inline-flex;
         overflow: hidden;
-        width: 99%;
+        width: 98%;
         transition: width 1s;
     }
 
@@ -210,7 +210,7 @@ footer p {
         display: block;
     }
 
-    #content #cover-pic {
+    #content #delta-pic {
         width: 100%;
     }
 
@@ -272,7 +272,7 @@ footer p {
         width: 100%;
     }
 
-    #content #cover-pic{
+    #content #delta-pic{
         width: 100%;
     }
     .sidebar {
