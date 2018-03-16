@@ -28,7 +28,7 @@ h2 {
 }
 
 .main-header #logo {
-    width: 100%;
+    width: 60%;
     margin: 10px 0;
     display: flex;
     transition: width 2s;
@@ -68,7 +68,7 @@ h2 {
 
 /*Content block */
 #content #delta-pic {
-    width: 80%;
+    width: 70%;
 
     border-radius: 5px;
     margin-top: 10px;
@@ -88,7 +88,7 @@ h2 {
 }
 
 .sidebar .block #horses-img, .sidebar .block #boat-img, .sidebar .block #bird-img {
-    width: 40%;
+    width: 50%;
     align-items: flex-start;
     border-radius: 5px;
     margin-top: 10px;
@@ -152,8 +152,8 @@ footer p {
         flex: none;
     }
 
-    #content #cover-pic{
-        width: 100%;
+    #content #delta-pic{
+        width: 80%;
         flex: none;
     }
     #sidebar {
